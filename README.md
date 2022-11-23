@@ -1,0 +1,2 @@
+# STS
+Stochastic tree search 
